@@ -1,0 +1,12 @@
+{
+  "language": "Chinese",
+  "language.code": "zh_cn",
+  "language.region": "China",
+  
+  "itemGroup.everyxherbs": "一起摘草药",
+
+  "block.everyxherbs.ginger": "生姜",
+  "block.everyxherbs.angelica": "当归",
+
+  "item.everyxherbs.angelica_seed": "当归种子"
+}

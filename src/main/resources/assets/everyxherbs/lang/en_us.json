@@ -1,0 +1,12 @@
+{
+  "language": "English",
+  "language.code": "en_us",
+  "language.region": "United States",
+  
+  "itemGroup.everyxherbs": "EveryXHerbs",
+
+  "block.everyxherbs.ginger": "Ginger",
+  "block.everyxherbs.angelica": "Angelica",
+
+  "item.everyxherbs.angelica_seed": "Angelica Seed"
+}
